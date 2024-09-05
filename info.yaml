@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        "Patater Demo Kit on a Chip"
+  title:        "Patater Demo Kit Waggling Rainbow on a Chip"
   author:       "Jaeden Amero"
   discord:      "Patater"
-  description:  "A small collection of VGA demos"
+  description:  "A 6-bit Waggling Rainbow demo"
   language:     "Verilog"
   clock_hz:     25175000
 

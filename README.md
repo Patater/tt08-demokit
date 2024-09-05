@@ -1,6 +1,6 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Patater Demo Kit for Tiny Tapeout (tt08)
+# Patater Demo Kit Waggling Rainbow for Tiny Tapeout (tt08)
 
 ![Screenshot of the demo](docs/Default.png)
 
